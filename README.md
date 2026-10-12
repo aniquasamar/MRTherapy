@@ -1,36 +1,30 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dr. Maya Reynolds, PsyD — Private Practice Website
 
-## Getting Started
+A high-end, responsive, and sophisticated modern web application designed for **Dr. Maya Reynolds**, a Licensed Clinical Psychologist based in Santa Monica, California. Built with modern web technologies, the website reflects an earthy, grounded, and tranquil aesthetic tailored for private practice therapy services, in-person appointments, and statewide California telehealth.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Design & Aesthetic
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Aesthetic:** Earthy, Grounded, and Sophisticated.
+- **Color Palette:** 
+  - **Primary:** Deep Plum (`#6b536b`)
+  - **Secondary:** Sage Green (`#949d8c`)
+  - **Accent:** Forest Green (`#556b55`)
+  - **Warm Background:** Warm Cream (`#f5efe6`)
+  - **Off-white:** Soft Off-White (`#fcfbfa`)
+  - **Dark Text:** Deep Slate Charcoal (`#2c352d`)
+- **Typography:**
+  - **Headings:** High-contrast elegant serif (`Cormorant Garamond`)
+  - **Body:** Clean geometric sans-serif (`Plus Jakarta Sans`)
+  - **Accents:** Flowing cursive script (`Dancing Script`) for emphasis
+- **Layouts:** Asymmetric full-bleed imagery, split screens, and minimalist typography.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tech Stack
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
+- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
+- **Language:** TypeScript
+- **Icons & Assets:** Optimized Next.js Image components (`next/image`)
