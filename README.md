@@ -4,7 +4,7 @@ A high-end, responsive, and sophisticated modern web application designed for **
 
 ---
 
-## 🌿 Design & Aesthetic
+## Design & Aesthetic
 
 - **Aesthetic:** Earthy, Grounded, and Sophisticated.
 - **Color Palette:** 
@@ -22,7 +22,7 @@ A high-end, responsive, and sophisticated modern web application designed for **
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Framework:** [Next.js 15](https://nextjs.org/) (App Router)
 - **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
